@@ -1,0 +1,21 @@
+MENU ITEMS
+1.Home
+2.About us
+3.Tournament
+4.Pages
+5.News
+6.Contact
+
+ABOUT TEXT
+Gorem npsum dolor sit amet consectetur adipiscing elit. Duis elementum sollici tudin augue euismod. Nulla ullamcorper nunc. Morbi pharetra mi tellus mollis tincidunt massa venenatis. Etiam lacinia ipsumultrices.
+
+FOOTER COPY 
+Copyright © 2024 - All Rights Reserved By
+
+1.Like that - Anno Domini Beats
+2.Anywhen you say - Cheel
+3.Snake on the beach - Nico Staf
+4.Vacation Uke Albis
+5.Book the rentail wit it - Rage
+
+Hey everyone! Welcome to my channel! Subscribe for awesome content and future projects once we hit 1000 subscribers!

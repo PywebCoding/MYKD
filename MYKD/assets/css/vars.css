@@ -1,0 +1,30 @@
+:root {
+	/*==================== FONTS ====================*/
+	--font-barlow: 'Barlow', sans-serif;
+	--font-poppins: 'Poppins', sans-serif;
+	--font-anton: 'Anton', sans-serif;
+
+	/*==================== TYPOGRAPHY ====================*/
+	--size-smallest: 12px;
+	--size-sm: 13px;
+	--size-base: 14px;
+	--size-md: 15px;
+	--size-lg: 16px;
+	--size-2lg: 18px;
+	--size-3lg: 20px;
+	--size-4lg: 22px;
+	--size-5lg: 24px;
+	--size-6lg: 26px;
+	--size-7lg: 30px;
+	--size-8lg: 34px;
+	--size-9lg: 45px;
+	--size-10lg: 90px;
+	--size-xl: 150px;
+
+	/*==================== COLORS ====================*/
+	--white: #ffffff;
+	--main-green: #45f782;
+	--light-green: #69fa99;
+	--dark: #121a23;
+	--yellow: #ffbe18;
+}
